@@ -2,8 +2,7 @@
 
 A simple ATM (Automated Teller Machine) program in Java that allows you to perform basic banking operations like withdrawing money, depositing money, and checking your account balance.
 
-
-![Screenshot 2023-11-10 104458](https://github.com/Vivek-Sonawale/ATM-Machine-Using-JAVA/assets/110754566/0c49dcb4-2fd1-47ae-872e-5657a48d9b77)
+![atm](https://github.com/Vivek-Sonawale/ATM-Machine-Using-JAVA/assets/110754566/01b0a788-b786-47fe-bede-701c1549cb94)
 
 
 ## Features
