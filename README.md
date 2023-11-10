@@ -7,8 +7,7 @@ A simple ATM (Automated Teller Machine) program in Java that allows you to perfo
 
 ## Features
 
-- **Withdraw Money**: You can withdraw a specific amount of money from your accoun![Uploading Screenshot 2023-11-10 104458.png…]()
-t, and it will deduct from your balance.
+- **Withdraw Money**: You can withdraw a specific amount of money from your account, and it will deduct from your balance.
 - **Deposit Money**: You can deposit money into your account, and it will be added to your balance.
 - **Check Account Balance**: You can check your account balance at any time.
 - **Secure Access**: The program requires a card number and a PIN for access.
